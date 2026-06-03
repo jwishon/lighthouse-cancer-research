@@ -1,0 +1,25 @@
+# Patient data — NEVER commit. This stays on the user's machine only.
+config/patient-profile.md
+config/idea-station.md
+data/
+digests/
+*.digest.md
+
+# Secrets and keys
+config/.env
+.env
+*.key
+secrets/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
