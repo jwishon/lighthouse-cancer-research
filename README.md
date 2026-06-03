@@ -40,6 +40,18 @@ It works for **any cancer type**. You tell it the diagnosis, stage, location, an
 
 The whole thing is driven by two plain text files you control. Change the profile, and the next day's research changes with it.
 
+## What it looks like
+
+Lighthouse has no app to log into — it runs quietly on a schedule and sends you a digest. Here's a run, and an example of what lands in your inbox.
+
+**Running it** — one command, or one scheduled job:
+
+![Terminal showing the Lighthouse worker running a daily research job](docs/screenshots/terminal-run.png)
+
+**The digest you receive** — ranked findings, evidence labels, source links, and questions for the care team. *(Illustrative example below — the content is a sample, not real medical findings.)*
+
+![Example Lighthouse email digest with ranked findings, evidence labels, source links, and questions for the care team](docs/screenshots/digest-email.png)
+
 ## Quick start
 
 There are three ways to stand this up. Pick the one that fits you.
@@ -61,13 +73,4 @@ Lighthouse is built so the patient's information lives **only where you put it**
 
 - An API key for an AI model (the default setup uses Anthropic's Claude; you can swap in another).
 - Free access to PubMed and ClinicalTrials.gov (no key required; an optional free NCBI key raises rate limits).
-- A way to run a daily job — your own computer, a home server, or any small cloud host.
-- A few minutes to fill in the profile honestly. The better the profile, the better the research.
-
-## License
-
-Released under the [MIT License](LICENSE) — free to use, copy, modify, and share, with no warranty. Read both the license and [DISCLAIMER.md](DISCLAIMER.md) before relying on it.
-
-## Where this came from
-
-Lighthouse grew out of a tool one family built after a cancer diagnosis in 2026 — a way to keep up with the research without drowning in it. It helped. We're sharing it, stripped of anything personal, in case it helps someone else. If it buys one more good hour with someone you love, it did its job.
+- A way to run a da

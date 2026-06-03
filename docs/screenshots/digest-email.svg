@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 664" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="920" height="664" rx="12" fill="#eef2f5"/>
+  <!-- email window -->
+  <rect x="20" y="20" width="880" height="624" rx="12" fill="#ffffff" stroke="#dbe3ea"/>
+
+  <!-- header -->
+  <text x="44" y="60" font-size="19" font-weight="700" fill="#0f2742">Lighthouse research digest — June 3, 2026</text>
+  <text x="44" y="84" font-size="12" fill="#7d8da0">to: you@example.com   ·   from: lighthouse</text>
+  <rect x="714" y="42" width="162" height="24" rx="12" fill="#fdeccc"/>
+  <text x="795" y="58" font-size="11" font-weight="600" fill="#9a6b1e" text-anchor="middle">ILLUSTRATIVE EXAMPLE</text>
+  <line x1="44" y1="100" x2="876" y2="100" stroke="#e3e9ef"/>
+
+  <!-- disclaimer banner -->
+  <rect x="44" y="112" width="832" height="48" rx="8" fill="#fdf3e3" stroke="#f0d9b0"/>
+  <text x="60" y="132" font-size="11.5" font-weight="600" fill="#8a6d3b">Automated research digest — not medical advice.</text>
+  <text x="60" y="149" font-size="11.5" fill="#8a6d3b">Discuss anything here with the care team, and verify each finding at its source link.</text>
+
+  <!-- Top findings -->
+  <text x="44" y="190" font-size="15" font-weight="700" fill="#0f2742">Top findings</text>
+
+  <!-- Finding 1 -->
+  <rect x="44" y="202" width="832" height="132" rx="10" fill="#f8fafb" stroke="#e3e9ef"/>
+  <rect x="60" y="218" width="124" height="22" rx="11" fill="#e3f4e8"/>
+  <text x="122" y="233" font-size="11" font-weight="600" fill="#2f7d4f" text-anchor="middle">HIGH relevance</text>
+  <rect x="194" y="218" width="176" height="22" rx="11" fill="#eef2f5"/>
+  <text x="282" y="233" font-size="11" fill="#5b6b7a" text-anchor="middle">late-trial · MODERATE quality</text>
+  <text x="60" y="266" font-size="14" font-weight="700" fill="#0f2742">Phase 2 results for a BRAF-targeted combination in melanoma</text>
+  <text x="60" y="288" font-size="12" fill="#41505f">Improved response vs. the prior standard in a mid-size trial; peer-reviewed.</text>
+  <text x="60" y="309" font-size="12" fill="#41505f"><tspan font-weight="600">Why it matters:</tspan> matches the BRAF status in the profile — worth asking about eligibility.</text>
+  <text x="60" y="328" font-size="11.5" fill="#1c7d8a">PubMed ↗   ·   pubmed.ncbi.nlm.nih.gov/…</text>
+
+  <!-- Finding 2 -->
+  <rect x="44" y="346" width="832" height="132" rx="10" fill="#f8fafb" stroke="#e3e9ef"/>
+  <rect x="60" y="362" width="92" height="22" rx="11" fill="#fdeccc"/>
+  <text x="106" y="377" font-size="11" font-weight="600" fill="#9a6b1e" text-anchor="middle">MEDIUM</text>
+  <rect x="162" y="362" width="150" height="22" rx="11" fill="#eef2f5"/>
+  <text x="237" y="377" font-size="11" fill="#5b6b7a" text-anchor="middle">early-trial · LOW quality</text>
+  <text x="60" y="410" font-size="14" font-weight="700" fill="#0f2742">Recruiting trial: neoadjuvant combination — site near Austin, TX</text>
+  <text x="60" y="432" font-size="12" fill="#41505f">Open to stage III patients; geography matches the profile.</text>
+  <text x="60" y="453" font-size="12" fill="#41505f"><tspan font-weight="600">Why it matters:</tspan> close enough to consider — flag for the care team to assess fit.</text>
+  <text x="60" y="472" font-size="11.5" fill="#1c7d8a">ClinicalTrials.gov ↗   ·   NCT0XXXXXXX (example)</text>
+
+  <!-- Questions -->
+  <text x="44" y="516" font-size="15" font-weight="700" fill="#0f2742">Questions for the care team</text>
+  <text x="48" y="542" font-size="13" fill="#0f2742">•  Is repeat molecular profiling worth requesting now?</text>
+  <text x="64" y="561" font-size="11.5" font-style="italic" fill="#7d8da0">what it means: re-testing the tumor's genetics to catch changes that may open new options.</text>
+
+  <line x1="44" y1="588" x2="876" y2="588" stroke="#e3e9ef"/>
+  <text x="44" y="612" font-size="11" fill="#8a98a6">Saved locally → data/digests/2026-06-03-digest.md   ·   nothing left your machine except public-database queries.</text>
+</svg>

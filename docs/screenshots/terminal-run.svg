@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <rect x="0" y="0" width="920" height="430" rx="12" fill="#0f1722"/>
+  <!-- title bar -->
+  <rect x="0" y="0" width="920" height="38" rx="12" fill="#1b2733"/>
+  <rect x="0" y="20" width="920" height="18" fill="#1b2733"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="19" r="6" fill="#27c93f"/>
+  <text x="460" y="24" font-size="13" fill="#7d8da0" text-anchor="middle">lighthouse — daily run</text>
+
+  <g font-size="14.5">
+    <text x="22" y="74"><tspan fill="#7ee0a0">$</tspan><tspan fill="#e6edf3"> cd worker &amp;&amp; python main.py</tspan></text>
+
+    <text x="22" y="104"><tspan fill="#4f93a0">[lighthouse]</tspan><tspan fill="#c4d0dc"> Starting daily run — 2026-06-03</tspan></text>
+    <text x="22" y="130"><tspan fill="#4f93a0">[lighthouse]</tspan><tspan fill="#c4d0dc"> Researching condition: </tspan><tspan fill="#e8a33d">'stage III melanoma'</tspan><tspan fill="#c4d0dc"> near Austin, TX</tspan></text>
+    <text x="22" y="156"><tspan fill="#4f93a0">[lighthouse]</tspan><tspan fill="#c4d0dc"> Memory: 0 PMIDs, 0 trials seen so far</tspan></text>
+    <text x="22" y="182"><tspan fill="#4f93a0">[lighthouse]</tspan><tspan fill="#c4d0dc"> Broad query: 12 PubMed · 5 preprints · 8 trials</tspan></text>
+    <text x="22" y="208"><tspan fill="#4f93a0">[lighthouse]</tspan><tspan fill="#c4d0dc">   topic </tspan><tspan fill="#e8a33d">'BRAF-targeted therapy'</tspan><tspan fill="#c4d0dc">: +6 PubMed · +4 trials</tspan></text>
+    <text x="22" y="234"><tspan fill="#4f93a0">[lighthouse]</tspan><tspan fill="#c4d0dc"> After dedup: 9 new papers · 5 preprints · 11 new trials</tspan></text>
+    <text x="22" y="260"><tspan fill="#4f93a0">[lighthouse]</tspan><tspan fill="#c4d0dc"> AI summarizing + ranking…</tspan></text>
+    <text x="22" y="286"><tspan fill="#4f93a0">[lighthouse]</tspan><tspan fill="#c4d0dc"> Digest written → data/digests/2026-06-03-digest.md</tspan></text>
+    <text x="22" y="312"><tspan fill="#4f93a0">[lighthouse]</tspan><tspan fill="#c4d0dc"> Emailed digest </tspan><tspan fill="#27c93f">✓</tspan></text>
+    <text x="22" y="338"><tspan fill="#4f93a0">[lighthouse]</tspan><tspan fill="#7ee0a0"> Done.</tspan></text>
+
+    <text x="22" y="372"><tspan fill="#7ee0a0">$</tspan><tspan fill="#e6edf3"> </tspan></text>
+    <rect x="40" y="360" width="9" height="17" fill="#c4d0dc"/>
+  </g>
+</svg>
